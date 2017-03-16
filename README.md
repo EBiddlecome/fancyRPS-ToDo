@@ -7,3 +7,5 @@ When you're finished, try re-styling the game with Flexbox:
 https://www.w3schools.com/css/css3_flexbox.asp
 <br>
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+<img src='http://imgur.com/tQGgFS6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
